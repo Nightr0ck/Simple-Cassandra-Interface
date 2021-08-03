@@ -1,0 +1,26 @@
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\bin\Debug\net5.0\Simple Cassandra Interface.exe
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\bin\Debug\net5.0\Simple Cassandra Interface.deps.json
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\bin\Debug\net5.0\Simple Cassandra Interface.runtimeconfig.json
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\bin\Debug\net5.0\Simple Cassandra Interface.runtimeconfig.dev.json
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\bin\Debug\net5.0\Simple Cassandra Interface.dll
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\bin\Debug\net5.0\ref\Simple Cassandra Interface.dll
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\bin\Debug\net5.0\Simple Cassandra Interface.pdb
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\bin\Debug\net5.0\Cassandra.dll
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\bin\Debug\net5.0\System.Management.dll
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\obj\Debug\net5.0\Simple Cassandra Interface.csproj.AssemblyReference.cache
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\obj\Debug\net5.0\Simple Cassandra Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\obj\Debug\net5.0\Simple Cassandra Interface.AssemblyInfoInputs.cache
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\obj\Debug\net5.0\Simple Cassandra Interface.AssemblyInfo.cs
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\obj\Debug\net5.0\Simple Cassandra Interface.csproj.CoreCompileInputs.cache
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\obj\Debug\net5.0\Simple Cassandra Interface.csproj.CopyComplete
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\obj\Debug\net5.0\Simple Cassandra Interface.dll
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\obj\Debug\net5.0\ref\Simple Cassandra Interface.dll
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\obj\Debug\net5.0\Simple Cassandra Interface.pdb
+C:\Users\Nightr0ck\source\repos\Simple Cassandra Interface\Simple Cassandra Interface\obj\Debug\net5.0\Simple Cassandra Interface.genruntimeconfig.cache
