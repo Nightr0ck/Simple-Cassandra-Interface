@@ -2,8 +2,8 @@
 
 Commands:<br>
 <br>
-Pull latest Cassandra image
-```docker pull cassandra:latest```
+Pull latest Cassandra image<br>
+```docker pull cassandra:latest```<br>
 <br>
 Start Cassandra server in Docker<br>
 ```docker run --rm -d --name cassandra --hostname cassandra --network cassandra -p 9042:9042 cassandra```<br>
