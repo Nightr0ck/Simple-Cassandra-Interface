@@ -1,14 +1,18 @@
-﻿using Cassandra;
-using System;
-using System.Collections.Generic;
+﻿using System;
+using Cassandra;
+using static Globals;
 
-class Program
+public class Program
 {
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
         Cluster cluster = Cluster.Builder().AddContactPoints("127.0.0.1").Build();
         ISession session = cluster.Connect();
-        session.CreateKeyspaceIfNotExists("store");
+        session.CreateKeyspaceIfNotExists(KeyspaceName);
+
+        TableMenu.Menu(session);
+        
+        /*
         session.Execute("CREATE TABLE IF NOT EXISTS store.shopping_cart" +
                         "(userid text PRIMARY KEY," +
                         "item_count int," +
@@ -36,5 +40,6 @@ class Program
             Console.WriteLine(userID);
             Console.WriteLine(itemCount);
         }
+        */
     }
 }
