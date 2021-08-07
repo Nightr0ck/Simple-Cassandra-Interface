@@ -5,6 +5,7 @@ using static Globals;
 
 public class TableMenu
 {
+    /*
     public static ArrayList tables = new ArrayList();
     public static void Menu(ISession session)
     {
@@ -89,7 +90,6 @@ public class TableMenu
                 Console.WriteLine("Invalid table name");
             }
         }
-
         return idenfitierName.ToLower();
     }
 
@@ -144,4 +144,5 @@ public class TableMenu
             }
         }
     }
+    */
 }
