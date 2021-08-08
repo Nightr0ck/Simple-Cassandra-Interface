@@ -28,39 +28,5 @@ public class Program
                 case 4: Delete.DeleteRow(session); break;
             }
         }
-        
-
-
-
-        /*
-        session.Execute("CREATE TABLE IF NOT EXISTS store.shopping_cart" +
-                        "(userid text PRIMARY KEY," +
-                        "item_count int," +
-                        "last_update_timestamp timestamp" +
-                        ");"
-                       );
-
-        session.Execute("INSERT INTO store.shopping_cart" +
-                        "(userid, item_count, last_update_timestamp)" +
-                        "VALUES('9876', 2, toTimeStamp(now()));"
-                       );
-
-        session.Execute("INSERT INTO store.shopping_cart" +
-                        "(userid, item_count, last_update_timestamp)" +
-                        "VALUES('1234', 5, toTimeStamp(now()));"
-                       );
-        
-        RowSet rs = session.Execute("SELECT * FROM store.shopping_cart");
-
-        foreach (Row row in rs)
-        {
-            string userID = row.GetValue<string>(0);
-            int itemCount = row.GetValue<int>(1);
-
-            Console.WriteLine(userID);
-            Console.WriteLine(itemCount);
-        }
-        */
     }
-
 }

@@ -41,18 +41,6 @@ public class Read
         DisplayRows(rowset);
     }
 
-    /*
-    private static void ReadByNamePlatformAndURL(ISession session)
-    {
-        string name = GetName();
-        string platform = GetPlatform();
-        string url = GetURL();
-        RowSet rowset = session.Execute("SELECT * FROM " + KeyspaceName + "." + TableName +
-                                        " WHERE name = '" + name + "' AND platform = '" + platform + "' AND url = '" + url + "';");
-        DisplayRows(rowset);
-    }
-    */
-
     private static void DisplayRows(RowSet rowset)
     {
         Console.WriteLine(" {0,-15} | {1,-12} | {2,-22} | {3,-30}", "Name", "Platform", "Time Created", "URL");
